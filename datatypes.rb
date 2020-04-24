@@ -6,3 +6,4 @@ mus= -32
 ismale=true
 istall=false
 flaws=nil
+#DT: double, float, bool, nil, int, string
